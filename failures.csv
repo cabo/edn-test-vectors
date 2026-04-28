@@ -30,7 +30,7 @@ op,input,output
 -,simple(0,
 -,simple(0 ,
 -,simple(1.),
--,simple("a"),
+-,"simple(""a"")",
 -,simple(256)
 -,simple(300)
 -,simple(-1)
