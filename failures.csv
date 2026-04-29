@@ -148,13 +148,13 @@ op,input,output
 -,simple(-0.0),
 # #\t\r\uFBC2
 -,h]23090defaf82,
-# "foo\x00"
+#,"foo\x00"
 -,h]22666f6f0022,
 # #\x00\n
 -,h]23000a,
 # #\t\r\uFBC2
 -,h]23090defaf82,
-# "foo\x00"
+#,"foo\x00"
 -,h]22666f6f0022,
 -,-1_,
 -,888_(null)
